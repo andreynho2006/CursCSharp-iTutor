@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{99E407E9-ABD0-4461-8D3E-3D7B828B0C98}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Animal.cs">
     <Files>
       <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Animal.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Tema4" expanded="True">
             <Node name="Tema4" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Animal.cs" selected="True" />
             </Node>
           </Node>
         </State>
