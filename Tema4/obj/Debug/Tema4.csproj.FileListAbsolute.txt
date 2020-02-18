@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/CursCSharp-iTutor/Tema4/bin/Debug/Tema4.exe
+/Users/andrei/Desktop/C#-projects/CursCSharp-iTutor/Tema4/bin/Debug/Tema4.pdb
+/Users/andrei/Desktop/C#-projects/CursCSharp-iTutor/Tema4/obj/Debug/Tema4.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/CursCSharp-iTutor/Tema4/obj/Debug/Tema4.exe
+/Users/andrei/Desktop/C#-projects/CursCSharp-iTutor/Tema4/obj/Debug/Tema4.pdb
