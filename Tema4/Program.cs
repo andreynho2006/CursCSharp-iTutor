@@ -6,7 +6,9 @@ namespace Tema4
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Animal cat = new Animal("cat", "red", 4);
+            Animal dog = new Animal("dog", "brown");
+            Animal horse = new Animal("horse");
         }
     }
 }
